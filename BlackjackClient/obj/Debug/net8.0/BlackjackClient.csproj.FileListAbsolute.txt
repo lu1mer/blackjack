@@ -1,0 +1,15 @@
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/bin/Debug/net8.0/BlackjackClient
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/bin/Debug/net8.0/BlackjackClient.deps.json
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/bin/Debug/net8.0/BlackjackClient.runtimeconfig.json
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/bin/Debug/net8.0/BlackjackClient.dll
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/bin/Debug/net8.0/BlackjackClient.pdb
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.AssemblyInfoInputs.cache
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.AssemblyInfo.cs
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.csproj.CoreCompileInputs.cache
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.sourcelink.json
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.dll
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/refint/BlackjackClient.dll
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.pdb
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/BlackjackClient.genruntimeconfig.cache
+/Users/ilnursalahov/httplistenersemwork-lu1mer/BlackJack/BlackjackClient/obj/Debug/net8.0/ref/BlackjackClient.dll
